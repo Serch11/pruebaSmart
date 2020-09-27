@@ -124,7 +124,7 @@ function CovidColombia() {
             </CardDeck>
             <Form>
                 <Form.Group controlId="formGroupSearch">
-                    <Form.Label><h1 >Departamentos de Colombia</h1></Form.Label>
+                    <Form.Label><h1 ></h1></Form.Label>
 
                 </Form.Group>
             </Form>

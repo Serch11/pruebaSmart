@@ -1,9 +1,14 @@
 import React from 'react'
+import Login from './components/LoginButton';
+import Logout from './components/LogoutButton'
+import Profile from './components/Profile'
 
 function About() {
     return (
       <div>
-        <h2>About</h2>
+         <Login />
+         <Logout/>
+         <Profile/>
       </div>
     );
   }

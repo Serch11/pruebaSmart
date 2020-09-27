@@ -97,7 +97,7 @@ class App extends React.Component {
       <div className="App">
         <br />
         <button className="btn btn-success" onClick={() => this.setState({ modalInsertar: true })}>Insertar</button>
-        <button className="btn btn-success" onClick={() => this.setState({ modalMapa: true })}>Ver Mapa</button>
+        {/* <button className="btn btn-success" onClick={() => this.setState({ modalMapa: true })}>Ver Mapa</button> */}
         <br />
         <br />
 
