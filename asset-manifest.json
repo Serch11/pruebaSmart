@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pruebaSmart/static/css/main.2dd1f77c.chunk.css",
+    "main.js": "/pruebaSmart/static/js/main.1e416be3.chunk.js",
+    "main.js.map": "/pruebaSmart/static/js/main.1e416be3.chunk.js.map",
+    "runtime-main.js": "/pruebaSmart/static/js/runtime-main.f7e48458.js",
+    "runtime-main.js.map": "/pruebaSmart/static/js/runtime-main.f7e48458.js.map",
+    "static/css/2.2d63d0b4.chunk.css": "/pruebaSmart/static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.1ff11a3f.chunk.js": "/pruebaSmart/static/js/2.1ff11a3f.chunk.js",
+    "static/js/2.1ff11a3f.chunk.js.map": "/pruebaSmart/static/js/2.1ff11a3f.chunk.js.map",
+    "index.html": "/pruebaSmart/index.html",
+    "precache-manifest.ac1b67c917b41887e020bddc49593a9c.js": "/pruebaSmart/precache-manifest.ac1b67c917b41887e020bddc49593a9c.js",
+    "service-worker.js": "/pruebaSmart/service-worker.js",
+    "static/css/2.2d63d0b4.chunk.css.map": "/pruebaSmart/static/css/2.2d63d0b4.chunk.css.map",
+    "static/css/main.2dd1f77c.chunk.css.map": "/pruebaSmart/static/css/main.2dd1f77c.chunk.css.map",
+    "static/js/2.1ff11a3f.chunk.js.LICENSE.txt": "/pruebaSmart/static/js/2.1ff11a3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e48458.js",
+    "static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.1ff11a3f.chunk.js",
+    "static/css/main.2dd1f77c.chunk.css",
+    "static/js/main.1e416be3.chunk.js"
+  ]
+}
